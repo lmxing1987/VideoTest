@@ -8,11 +8,11 @@
 <br><br>
 无图无真相
 <br>
-1、![image](https://github.com/lmxing1987/VideoTest/blob/master/1.png “首页”)；
+1、![首页](https://github.com/lmxing1987/VideoTest/blob/master/1.png "首页")；
 <br>
-2、![image](https://github.com/lmxing1987/VideoTest/blob/master/2.png “视频录制”)；
+2、![视频录制](https://github.com/lmxing1987/VideoTest/blob/master/2.png "视频录制")；
 <br>	
-3、![image](https://github.com/lmxing1987/VideoTest/blob/master/3.png “视频播放”)；
+3、![视频播放](https://github.com/lmxing1987/VideoTest/blob/master/3.png "视频播放")；
 <br>	
 <br>
 个人博客欢迎大家交流：[http://www.star-lai.cn](http://www.star-lai.cn)
